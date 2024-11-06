@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["auth_callback","get_auth_info"],"struct":["AuthenticationResponse"]};
